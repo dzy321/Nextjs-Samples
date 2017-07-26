@@ -6,15 +6,18 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "analyze": "cross-env ANALYZE=1 next build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "antd": "^2.12.2",
     "async-reactor": "^1.2.1",
+    "cross-env": "^5.0.1",
     "next": "^3.0.1-beta.5",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "webpack-bundle-analyzer": "^2.8.3"
   }
 }
