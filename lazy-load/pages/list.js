@@ -2,6 +2,6 @@ import '../lib/init'
 
 export default () => (
   <div>
-    <h1>index page</h1>
+    <h1>list page</h1>
   </div>
 )

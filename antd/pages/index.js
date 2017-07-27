@@ -9,5 +9,7 @@ export default () => (
     </Head>
     <Rate />
     <Slider />
+    <Slider />
+    <Slider />
   </div>
 )

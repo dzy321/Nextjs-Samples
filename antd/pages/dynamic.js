@@ -10,6 +10,6 @@ export default () => {
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/antd/2.12.2/antd.css" />
     </Head>
     <Rate />
-    <Slider />
+     <Slider /> 
   </div>
 }
